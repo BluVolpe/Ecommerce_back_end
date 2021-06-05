@@ -6,7 +6,7 @@
   
 ## Description
 The back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application displays creation of database using mySQL with models and associations. Then demonstrates the API Routes to perform RESTful CRUD operations displayed in my walk through videos.
-## Table of Contents (Optional)
+## Table of Contents
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
 - [Usage](#usage)
@@ -28,8 +28,9 @@ https://github.com/BluVolpe
 ## Tech
 
 ## Img
+https://drive.google.com/file/d/1icJ6T7PoQGwQWcnAwyJa_FqGj0dM5saJ/view?usp=sharing
 
-If your project has a lot of features, list them here.
+
 ## Contribution
 
 ## Tests
